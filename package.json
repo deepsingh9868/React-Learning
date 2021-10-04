@@ -2,7 +2,7 @@
   "name": "basics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/deepsingh9868/React-Learning/",
+  "homepage": "http://deepsingh9868.github.io/React-Learning/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "^0.3.0",
     "cra-template": "1.1.2",
