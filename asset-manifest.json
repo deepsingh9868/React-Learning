@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Learning/static/css/main.f247b517.chunk.css",
-    "main.js": "/React-Learning/static/js/main.08ce43cd.chunk.js",
-    "main.js.map": "/React-Learning/static/js/main.08ce43cd.chunk.js.map",
+    "main.css": "/React-Learning/static/css/main.cfd8ac35.chunk.css",
+    "main.js": "/React-Learning/static/js/main.7d36f2be.chunk.js",
+    "main.js.map": "/React-Learning/static/js/main.7d36f2be.chunk.js.map",
     "runtime-main.js": "/React-Learning/static/js/runtime-main.a8f1589d.js",
     "runtime-main.js.map": "/React-Learning/static/js/runtime-main.a8f1589d.js.map",
     "static/js/2.aaa7fbbe.chunk.js": "/React-Learning/static/js/2.aaa7fbbe.chunk.js",
     "static/js/2.aaa7fbbe.chunk.js.map": "/React-Learning/static/js/2.aaa7fbbe.chunk.js.map",
     "index.html": "/React-Learning/index.html",
-    "static/css/main.f247b517.chunk.css.map": "/React-Learning/static/css/main.f247b517.chunk.css.map",
+    "static/css/main.cfd8ac35.chunk.css.map": "/React-Learning/static/css/main.cfd8ac35.chunk.css.map",
     "static/js/2.aaa7fbbe.chunk.js.LICENSE.txt": "/React-Learning/static/js/2.aaa7fbbe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a8f1589d.js",
     "static/js/2.aaa7fbbe.chunk.js",
-    "static/css/main.f247b517.chunk.css",
-    "static/js/main.08ce43cd.chunk.js"
+    "static/css/main.cfd8ac35.chunk.css",
+    "static/js/main.7d36f2be.chunk.js"
   ]
 }
