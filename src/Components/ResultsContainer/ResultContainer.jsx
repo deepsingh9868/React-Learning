@@ -8,8 +8,7 @@ const ResultContainer = ({ SuggestedNames }) => {
     })
     return (
         <>
-            <div className="result-container">
-                <span>{suggestname}</span>
+            <div className="result-container">{suggestname}
             </div>
         </>
     )
