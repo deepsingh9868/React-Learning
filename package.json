@@ -6,6 +6,7 @@
   "dependencies": {
     "@rstacruz/startup-name-generator": "^0.3.0",
     "cra-template": "1.1.2",
+    "gh-pages": "^3.2.3",
     "nodemon": "^2.0.13",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -18,7 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
